@@ -1,0 +1,1 @@
+execute @a[tag=edit] ~~~ dialogue @e[type=npc,r=10] ~~~ open edit:
